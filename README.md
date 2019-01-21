@@ -41,7 +41,7 @@ To use this Community Connector you need have [Serpstat account](https://serpsta
 You need to enter domain name, token for API access (from Serpstat account) and select search engine.
 
 ## Try the Community Connector in Data Studio
-You can try out the managed deployment of the latest code: [Serpstat Community Connector](https://datastudio.google.com/datasources/create?connectorId=AKfycbwfreK1bggigTzc_xS2EFFQs-VI9Mo52cUNIGpKVDQs).
+You can try out the managed deployment of the latest code: [Serpstat Community Connector](https://datastudio.google.com/u/0/datasources/create?connectorId=AKfycbzk-Z0rKHKgKivjJ75iClNSCNwurOx_Htis377EeSEn).
 
 ## Deploy the Community Connector yourself
 Use the [deployment guide](https://github.com/googledatastudio/community-connectors/blob/master/deploy.md) to deploy the Community Connector yourself.
